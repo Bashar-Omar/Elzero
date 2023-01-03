@@ -1,6 +1,6 @@
 # Elzero
 
-[Demo](hhttps://bashar-omar.github.io/Elzero/)
+[Demo](https://bashar-omar.github.io/Elzero/)
 
 The technology that I used
 
